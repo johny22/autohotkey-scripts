@@ -1,4 +1,4 @@
-^K::
+^F7::
 Suspend, Toggle
 return
 
@@ -11,6 +11,3 @@ s::Left
 f::Down
 d::Up
 g::Right
-
-LControl & RAlt::LAlt
-AppsKey::LControl
