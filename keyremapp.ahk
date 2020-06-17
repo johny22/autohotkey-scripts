@@ -1,4 +1,4 @@
-^F7::
+^[::
 Suspend, Toggle
 return
 
